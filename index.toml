@@ -96,6 +96,11 @@ hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
